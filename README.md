@@ -48,7 +48,7 @@ A scalable and secure Text Sentiment Analysis REST API built with **FastAPI**, i
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/sentiment-analysis-api.git
+git clone https://github.com/dverma0103/NLP-Sentinel-Secure-Sentiment-Analysis-with-FastAPI-JWT.git
 cd sentiment-analysis-api
 ```
 
